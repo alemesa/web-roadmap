@@ -46,7 +46,8 @@ All the Git Courses are really useful
 4. [PHP](https://www.codeschool.com/learn/php)
    * **Try PHP** _useful_
    * **Close Encounter with PHP** _useful_
-5. [electives]
+
+#### Second Week
 
 This is a good first read and is also a great resource to check out every time you have doubts
 [Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)

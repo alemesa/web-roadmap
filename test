@@ -1,0 +1,7 @@
+
+
+git clone <project>
+cd <project>
+npm install
+npm start
+git checkout feature/
