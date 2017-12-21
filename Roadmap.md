@@ -1,6 +1,6 @@
 <h2>Jam3 Roadmap to Follow</h2>  
 
-<div align="left" style="width: 8%; height:40px;">
+<div align="left" width='40'>
 <img src="./images/codeschool.svg" ></div>
 <h3>Codeschool</h3>  
 
