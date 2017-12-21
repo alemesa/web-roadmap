@@ -51,6 +51,8 @@
 * [Learn to Code Advanced HTML & CSS](https://learn.shayhowe.com/advanced-html-css/)
 * [Interneting Is Hard](https://internetingishard.com/html-and-css/)
 
+---
+
 <img  src="./images/css.svg" width="6%">
 <h3 id="css">CSS</h3>  
 
@@ -67,6 +69,8 @@
 
 * [CSS Grid](https://cssgrid.io) 📺
 * [Grid Garden](http://cssgridgarden.com/) 🎮
+
+---
 
 <img  src="./images/sass.svg" width="6%">
 <h3 id="sass">Sass</h3>  
