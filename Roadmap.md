@@ -1,12 +1,4 @@
-<h2>Jam3 Roadmap to Follow</h2>  
-
-<img src="./images/codeschool.svg" width="6%">
-<h3>Codeschool</h3>  
-
-<img src="./images/egghead.svg" width="6%">
-<h3>Egghead</h3>  
-
----
+## <h2>Jam3 Roadmap to Follow</h2>
 
 #### Plan for the two-weeks on-boarding training
 
@@ -18,6 +10,9 @@
 ---
 
 #### First Week
+
+<h3>Codeschool</h3>  
+<img align="self" src="./images/codeschool.svg" width="6%">
 
 First week there are a lot of meetings and setting up your computer will take some time but you should be able to finish all Codeschool Content during this first week. The goal of the Codeschool is to bring everyone up to speed with Jam3 standards.
 
@@ -49,23 +44,29 @@ All the Git Courses are really useful
 
 #### Second Week
 
-This is a good first read and is also a great resource to check out every time you have doubts
+### CSS
+
+---
+
+* Flexbox
+
+This is a good first read and is also a great resource to check out every time you have questions
 [Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 Go to [Flexbox.io](https://flexbox.io/) sign in and finish the course
 
 * CSS Grid
 
-This is a good first read and is also a great resource to check out every time you have doubts
+This is a good first read and is also a great resource to check out every time you have questions
 [Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 Go to [CSSGrid.io](https://cssgrid.io/) sign in and finish the course
 
-## Javascript
+### Javascript
 
 ---
 
-Go to [Javascript30](https://javascript30.com/) sign in and finish
+Go to [Javascript30](https://javascript30.com/) Sign in and finish these:
 
 * Day 4 - Array Cardio Day
 * Day 7 - Array Cardio Day 2
@@ -73,20 +74,25 @@ Go to [Javascript30](https://javascript30.com/) sign in and finish
 * Day 18 - Tally String Times with Reduce
 * Day 25 - Event Capture, Propagation, Bubbling and Once
 
-## React
+### React
 
 ---
 
-https://reactjs.org/tutorial/tutorial.html
+* [React Docs Tutorial](https://reactjs.org/tutorial/tutorial.html)
 
-https://egghead.io/courses/the-beginner-s-guide-to-reactjs
+* [Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-reactjs)
 
-Finish this 3 small projects for React - https://ihatetomatoes.net/r101/
+Finish these 3 small projects for React [here](https://ihatetomatoes.net/r101/)
 
-Setting up React is a pain in the ass either start with the jam3 generator or with create-react-app https://github.com/facebookincubator/create-react-app/
+Setting up React is very difficult because Webpack config is rather confusing your best bet to initiliaze projects are our [jam3 generator]() or [create-react-app](https://github.com/facebookincubator/create-react-app/) which is mantained by the React team.
 
-React Router Documentation https://reacttraining.com/react-router/web
+React Router v4 is very simple and their [docs](https://reacttraining.com/react-router/web)
 
-Redux Documentation
+### Gsap
 
-### gsap
+At Jam3 we heavily use the Gsap animation library good resources to take a look at are:
+
+* [Gsap Docs]()
+
+<h3>Egghead</h3>  
+<img src="./images/egghead.svg" width="6%">
