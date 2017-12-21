@@ -43,22 +43,29 @@
 <h2 id="frontend">Front End</h2>  
 
 <img  src="./images/html.svg" width="6%">
-<h3 id="html">HTML</h3>  
+<h3 id="html">HTML & CSS</h3>  
 
 * [Marksheet](http://marksheet.io/)
 * [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
 * [Learn to Code Advanced HTML & CSS](https://learn.shayhowe.com/advanced-html-css/)
+* [Interneting Is Hard](https://internetingishard.com/html-and-css/)
 
 <img  src="./images/css.svg" width="6%">
 <h3 id="css">CSS</h3>  
 
+* [Learn CSS Layout 📖](http://learnlayout.com/)
+* [CSS Diner 🎮](http://flukeout.github.io/)
+* [Centering with CSS](https://codepen.io/shshaw/full/gEiDt)
+
 <h4 id="flexbox">Flexbox<h4>
 
-* [Flexbox](https://flexbox.io)
+* [Flexbox 📺](https://flexbox.io)
+* [Flexbox Froggy 🎮](http://flexboxfroggy.com/)
 
 <h4 id="css-grid">CSS Grid<h4>  
 
-* [CSS Grid](https://cssgrid.io)
+* [CSS Grid 📺](https://cssgrid.io)
+* [Grid Garden 🎮](http://cssgridgarden.com/)
 
 <img  src="./images/sass.svg" width="6%">
 <h3 id="sass">Sass</h3>  
@@ -78,7 +85,9 @@
 <img  src="./images/react.svg" width="6%">
 <h3 id="react">React</h3>  
 
-* <h4 id="react-router">React Router<h4>
+* []()
+
+<h4 id="react-router">React Router<h4>
 
 <img  src="./images/angular.svg" width="6%">
 <h3 id="angular">Angular</h3>  
@@ -100,12 +109,17 @@
 <img  src="./images/redux.svg" width="6%">
 <h3 id="redux">Redux</h3>  
 
+* [Redux Official Docs 📖](hhttps://redux.js.org/)
+* [Getting Started with Redux 📺](https://egghead.io/courses/getting-started-with-redux)
+
 ---
 
 <h2 id="backend">Back End</h2>
 
 <img  src="./images/nodejs.svg" width="6%">
-<h3 id="nodejs">NodeJS</h3>  
+<h3 id="nodejs">NodeJS & Express</h3>
+
+\*[Express Foundations](https://node.university/p/express-foundation)
 
 <img  src="./images/python.svg" width="6%">
 <h3 id="python">Python</h3>  
@@ -121,6 +135,7 @@
 <h3 id="git">Git</h3>
 
 * [Try Git](https://try.github.io)
+* [How to use Git & Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775)
 
 <img  src="./images/markdown.svg" width="6%">
 <h3 id="markdown">Markdown</h3>
