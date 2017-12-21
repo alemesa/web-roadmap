@@ -75,9 +75,14 @@
 <h3 id="javascript">Javascript</h3>  
 
 * [Javascript 30 for 30](https://javascript30.com/) ⭐
+* [Eloquent Javascript](http://eloquentjavascript.net/) 📖
+* [Functional Light JS](https://github.com/getify/Functional-Light-JS) 📖
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) 📖
 
 <img  src="./images/php.svg" width="6%">
 <h3 id="php">PHP</h3>  
+
+* [Try PHP](https://www.codeschool.com/courses/try-php) 📺
 
 ---
 
@@ -86,7 +91,8 @@
 <img  src="./images/react.svg" width="6%">
 <h3 id="react">React</h3>  
 
-* []()
+* [Tutorial Official Docs](https://reactjs.org/tutorial/tutorial.html)
+* [Start Learning React](https://egghead.io/courses/start-learning-react)
 
 <h4 id="react-router">React Router<h4>
 
@@ -114,6 +120,7 @@
 
 * [Redux Official Docs 📖](hhttps://redux.js.org/)
 * [Getting Started with Redux 📺](https://egghead.io/courses/getting-started-with-redux)
+* [Learn Redux](https://learnredux.com/) ⭐
 
 <img  src="./images/webpack.svg" width="6%">
 <h3 id="webpack">Webpack</h3>  
@@ -127,10 +134,13 @@
 <img  src="./images/nodejs.svg" width="6%">
 <h3 id="nodejs">NodeJS & Express</h3>
 
-\*[Express Foundations](https://node.university/p/express-foundation)
+* [Express Foundations](https://node.university/p/express-foundation)
 
 <img  src="./images/python.svg" width="6%">
 <h3 id="python">Python</h3>  
+
+* [Try Python](https://www.codeschool.com/courses/try-python)
+* [Learn Python the Hard Way](https://learnpythonthehardway.org/python3/)
 
 ---
 
@@ -139,11 +149,16 @@
 <img  src="./images/terminal.svg" width="6%">
 <h3 id="terminal">Terminal</h3>  
 
+* [Command Line Power User](https://commandlinepoweruser.com/)
+
 <img  src="./images/git.svg" width="6%">
 <h3 id="git">Git</h3>
 
 * [Try Git](https://try.github.io)
 * [How to use Git & Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775)
+* [Become a git guru](https://www.atlassian.com/git/tutorials)
 
 <img  src="./images/markdown.svg" width="6%">
 <h3 id="markdown">Markdown</h3>
+
+* [Mastering Markdown](https://masteringmarkdown.com/)

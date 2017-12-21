@@ -8,11 +8,45 @@
 
 ---
 
-#### Read first
+#### Plan for the two-weeks on-boarding training
 
-* The idea of this repo is for
+* The purpose of this repository is too make the training more immersive and updated with the latest technologies and tutorials and more straight forward providing a clear path to follow.
+* This is not an enforced path, it will likely depend on your first project at the company
+* All the resources are free or are from CodeSchool
+* At the end of your coop term feel free to add, update or remove resources.
 
 ---
+
+#### First Week
+
+First week there are a lot of meetings and setting up your computer will take some time but you should be able to finish all Codeschool Content during this first week. The goal of the Codeschool is to bring everyone up to speed with Jam3 standards.
+
+Path to follow
+
+1. [HTML/CSS](https://www.codeschool.com/learn/html-css)
+   * **Getting Started with HTML and CSS**
+   * ⭐ **Intermediate CSS** - HTML Emails Sections is _not required_
+   * **SVG** - _useful_ but not required
+   * Avoid ☠️ **Bootstrap** section
+   * **Design** _useful_ but not required
+2. [Javascript](https://www.codeschool.com/learn/javascript)
+   * ⭐ **Javascript Language** - great introduction (ES2015: The Shape of Javascript to Come & Javascript Best Practices are specially good)
+   * Avoid ️☠️ **jQuery** section
+   * **Client Side Frameworks** - Finish only Powering Up with React and the Angular courses if needed
+   - **Server Side Frameworks** _useful_ but not required
+   - Avoid ☠️ **CoffeScript**
+3. [Git](https://www.codeschool.com/learn/git)
+   * ⭐ **Try Git**
+   * ⭐ **Git Real**
+   * **Git Real 2**
+   * **Mastering Github**
+
+All the Git Courses are really useful
+
+4. [PHP](https://www.codeschool.com/learn/php)
+   * **Try PHP** _useful_
+   * **Close Encounter with PHP** _useful_
+5. [electives]
 
 This is a good first read and is also a great resource to check out every time you have doubts
 [Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
