@@ -27,6 +27,7 @@
 * <a href="#advanced-frontend">Advanced Frontend</a>
 
   * <a href="#redux">Redux</a>
+  * <a href="#webpack">Webpack</a>
 
 * <a href="#backend">Backend</a>
 
@@ -53,19 +54,19 @@
 <img  src="./images/css.svg" width="6%">
 <h3 id="css">CSS</h3>  
 
-* [Learn CSS Layout 📖](http://learnlayout.com/)
-* [CSS Diner 🎮](http://flukeout.github.io/)
+* [Learn CSS Layout](http://learnlayout.com/) 📖
+* [CSS Diner](http://flukeout.github.io/) 🎮
 * [Centering with CSS](https://codepen.io/shshaw/full/gEiDt)
 
 <h4 id="flexbox">Flexbox<h4>
 
-* [Flexbox 📺](https://flexbox.io)
-* [Flexbox Froggy 🎮](http://flexboxfroggy.com/)
+* [Flexbox](https://flexbox.io) 📺
+* [Flexbox Froggy](http://flexboxfroggy.com/) 🎮
 
 <h4 id="css-grid">CSS Grid<h4>  
 
-* [CSS Grid 📺](https://cssgrid.io)
-* [Grid Garden 🎮](http://cssgridgarden.com/)
+* [CSS Grid](https://cssgrid.io) 📺
+* [Grid Garden](http://cssgridgarden.com/) 🎮
 
 <img  src="./images/sass.svg" width="6%">
 <h3 id="sass">Sass</h3>  
@@ -73,7 +74,7 @@
 <img  src="./images/javascript.svg" width="6%">
 <h3 id="javascript">Javascript</h3>  
 
-* [Javascript 30 for 30](https://javascript30.com/)
+* [Javascript 30 for 30](https://javascript30.com/) ⭐
 
 <img  src="./images/php.svg" width="6%">
 <h3 id="php">PHP</h3>  
@@ -95,6 +96,8 @@
 <img  src="./images/vue.svg" width="6%">
 <h3 id="vue">Vue</h3>  
 
+* [Learn Vue 2 Step by Step](https://laracasts.com/series/learn-vue-2-step-by-step) ⭐
+
 ---
 
 <h2 id="animation-frameworks">Animation Frameworks</h2>
@@ -111,6 +114,11 @@
 
 * [Redux Official Docs 📖](hhttps://redux.js.org/)
 * [Getting Started with Redux 📺](https://egghead.io/courses/getting-started-with-redux)
+
+<img  src="./images/webpack.svg" width="6%">
+<h3 id="webpack">Webpack</h3>  
+
+* [Learn Webpack 2 from scratch](https://www.udemy.com/learn-webpack-2-from-scratch/)
 
 ---
 
