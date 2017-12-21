@@ -1,10 +1,10 @@
 <h2>Jam3 Roadmap to Follow</h2>  
 
-<div align="left" width='40'>
-<img src="./images/codeschool.svg" ></div>
+<div align="left">
+<img src="./images/codeschool.svg" width="6%"></div>
 <h3>Codeschool</h3>  
 
-<img align="left" src="./images/egghead.svg" style="width: 8%; height:40px;">
+<img align="left" src="./images/egghead.svg" width="6%">
 <h3>Egghead</h3>  
 
 ---
