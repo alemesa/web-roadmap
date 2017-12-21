@@ -36,6 +36,7 @@
 * <a href="#essentials">Essentials</a>
   * <a href="#terminal">Terminal</a>
   * <a href="#git">Git & Github</a>
+  * <a href="#markdown">Markdown</a>
 
 ---
 
@@ -44,17 +45,28 @@
 <img align="left" src="./images/html.svg" width="6%">
 <h3 id="html">HTML</h3>  
 
+* [Marksheet](http://marksheet.io/)
+* [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
+* [Learn to Code Advanced HTML & CSS](https://learn.shayhowe.com/advanced-html-css/)
+
 <img align="left" src="./images/css.svg" width="6%">
 <h3 id="css">CSS</h3>  
 
-* <h4 id="flexbox">Flexbox<h4>  
-* <h4 id="css-grid">CSS Grid<h4>  
+<h4 id="flexbox">Flexbox<h4>
+
+* [Flexbox](https://flexbox.io)
+
+<h4 id="css-grid">CSS Grid<h4>  
+
+* [CSS Grid](https://cssgrid.io)
 
 <img align="left" src="./images/sass.svg" width="6%">
 <h3 id="sass">Sass</h3>  
 
 <img align="left" src="./images/javascript.svg" width="6%">
 <h3 id="javascript">Javascript</h3>  
+
+* [Javascript 30 for 30](https://javascript30.com/)
 
 <img align="left" src="./images/php.svg" width="6%">
 <h3 id="php">PHP</h3>  
@@ -107,3 +119,8 @@
 
 <img align="left" src="./images/git.svg" width="6%">
 <h3 id="git">Git</h3>
+
+* [Try Git](https://try.github.io)
+
+<img align="left" src="./images/markdown.svg" width="6%">
+<h3 id="markdown">Markdown</h3>

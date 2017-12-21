@@ -3,7 +3,7 @@
 <img align="left" src="./images/codeschool.svg" width="6%">
 <h3>Codeschool</h3>  
 
-<img align="left" src="./images/egghead.svg" width="5%">
+<img align="left" src="./images/egghead.svg" width="6%">
 <h3>Egghead</h3>  
 
 ---
