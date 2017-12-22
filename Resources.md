@@ -33,11 +33,14 @@
 
   * <a href="#nodejs">NodeJS</a>
   * <a href="#python">Python</a>
+  * <a href="#mongodb">MongoDB</a>
 
 * <a href="#essentials">Essentials</a>
   * <a href="#terminal">Terminal</a>
   * <a href="#git">Git & Github</a>
   * <a href="#markdown">Markdown</a>
+
+* <a href="#API">API</a>
 
 ---
 
@@ -115,6 +118,10 @@
 <img  src="./images/angular.svg" width="6%">
 <h3 id="angular">Angular</h3>  
 
+* [Official Angular Docs](https://angular.io/)
+* [Angular CLI](https://cli.angular.io/)
+* [Typescript](https://www.typescriptlang.org)
+* [RxJS](http://reactivex.io/rxjs/)
 ---
 
 <img  src="./images/vue.svg" width="6%">
@@ -161,6 +168,7 @@
 <h3 id="nodejs">NodeJS & Express</h3>
 
 * [Express Foundations](https://node.university/p/express-foundation)
+* [NodeJS Async/Await](https://blog.risingstack.com/mastering-async-await-in-nodejs/)
 
 ---
 
@@ -172,6 +180,16 @@
 
 ---
 
+<img src="./images/mongodb.svg" width="15%">
+<h3 id="mongodb">MongoDB</h3>  
+
+* [MongoDB Tutorials](https://docs.mongodb.com/tutorials/)
+* [Mongo Shell](https://docs.mongodb.com/manual/reference/mongo-shell/)
+* [Mongoose](http://mongoosejs.com/docs/guide.html)
+* [MEAN App + RESTful API Heroku Tutorial](https://devcenter.heroku.com/articles/mean-apps-restful-api)
+
+---
+
 <h2 id="essentials">Essentials</h2>
 
 ---
@@ -180,6 +198,7 @@
 <h3 id="terminal">Terminal</h3>  
 
 * [Command Line Power User](https://commandlinepoweruser.com/)
+* [oh-my-zsh Git Shortcuts](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/git/git.plugin.zsh)
 
 ---
 
@@ -189,10 +208,17 @@
 * [Try Git](https://try.github.io)
 * [How to use Git & Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775)
 * [Become a git guru](https://www.atlassian.com/git/tutorials)
-
+* [Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model/)
+* [Git Merge vs. Git Rebase](https://www.derekgourlay.com/blog/git-when-to-merge-vs-when-to-rebase/)
+* [Rewriting History](https://www.atlassian.com/git/tutorials/rewriting-history)
 ---
 
 <img  src="./images/markdown.svg" width="6%">
 <h3 id="markdown">Markdown</h3>
 
 * [Mastering Markdown](https://masteringmarkdown.com/)
+
+---
+<h2 id="API">API's</h2>
+
+* [Public API's](https://github.com/abhishekbanthia/Public-APIs)
