@@ -4,7 +4,7 @@
 
 * The purpose of this repository is too make the training more immersive and updated with the latest technologies and tutorials and more straight forward providing a clear path to follow.
 * This is not an enforced path, it will likely depend on your first project at the company
-* All the resources are free or are from CodeSchool
+* All the resources are free or from CodeSchool
 * At the end of your coop term feel free to add, update or remove resources.
 
 ---
@@ -66,10 +66,13 @@ Go to [CSSGrid.io](https://cssgrid.io/) sign in and finish the course
 
 ---
 
-Go to [Javascript30](https://javascript30.com/) Sign in and finish these:
+Go to [Javascript30](https://javascript30.com/) sign in and finish these tutorials:
 
 * Day 4 - Array Cardio Day
 * Day 7 - Array Cardio Day 2
+* Day 9 - 14 Must Know Dev Tools Tricks
+* Day 11 - Custom HTML5 Video Player
+* Day 13 - Slide In On Scroll
 * Day 14 - Object and Arrays - Reference vs Copy
 * Day 18 - Tally String Times with Reduce
 * Day 25 - Event Capture, Propagation, Bubbling and Once
@@ -86,13 +89,23 @@ Finish these 3 small projects for React [here](https://ihatetomatoes.net/r101/)
 
 Setting up React is very difficult because Webpack config is rather confusing your best bet to initiliaze projects are our [jam3 generator]() or [create-react-app](https://github.com/facebookincubator/create-react-app/) which is mantained by the React team.
 
-React Router v4 is very simple and their [docs](https://reacttraining.com/react-router/web)
+React Router v4 is very simple and their [docs](https://reacttraining.com/react-router/web) are great
 
 ### Gsap
 
 At Jam3 we heavily use the Gsap animation library good resources to take a look at are:
 
-* [Gsap Docs]()
+* [Gsap Docs](https://greensock.com/docs)
+* [Gsap 101 Course Youtube](https://www.youtube.com/watch?v=_42HpXlGpfk&list=PLkEZWD8wbltlSS_d_7tx_H_FBNVro8918)
 
 <h3>Egghead</h3>  
 <img src="./images/egghead.svg" width="6%">
+
+Egghead is an awesome website with quick to the point tutorials made by industry's leaders. It is a paid resource but the offer many free tutorials. Some of the good ones are these (pick those that you need to reinforce your knowledge):
+
+* [The Beginner's Guide to ReactJS](https://egghead.io/courses/the-beginner-s-guide-to-reactjs)
+* [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
+* [Learn the Best and Most Useful SCSS](https://egghead.io/courses/learn-the-best-and-most-useful-scss)
+* [Get Started with Angular](https://egghead.io/courses/get-started-with-angular)
+* [Practical Git for Everyday Professional Use](https://egghead.io/courses/practical-git-for-everyday-professional-use)
+* [Start Learning React](https://egghead.io/courses/start-learning-react)

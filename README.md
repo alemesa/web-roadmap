@@ -5,4 +5,5 @@
 
 * <a href="./Roadmap.md">Roadmap</a>
 * <a href="./Resources.md">Resources</a>
+* <a href="./MacSetup.md">Basic Development Setup</a>
 * <a href="./Project.md">Final Project</a>

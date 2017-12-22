@@ -77,6 +77,8 @@
 <img  src="./images/sass.svg" width="6%">
 <h3 id="sass">Sass</h3>  
 
+* [Learn the Best and Most Useful SCSS](https://egghead.io/courses/learn-the-best-and-most-useful-scss)
+
 ---
 
 <img  src="./images/javascript.svg" width="6%">
