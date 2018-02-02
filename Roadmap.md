@@ -12,7 +12,7 @@
 #### First Week
 
 <h3>Codeschool</h3>  
-<img align="self" src="./images/codeschool.svg" width="6%">
+<img src="./images/codeschool.svg" width="6%">
 
 First week there are a lot of meetings and setting up your computer will take some time but you should be able to finish all Codeschool Content during this first week. The goal of the Codeschool is to bring everyone up to speed with Jam3 standards.
 
@@ -81,15 +81,17 @@ Go to [Javascript30](https://javascript30.com/) sign in and finish these tutoria
 
 ---
 
+Setting up React is very difficult because Webpack config is rather confusing your best bet to initiliaze projects are our [jam3 generator]() or [create-react-app](https://github.com/facebookincubator/create-react-app/) which is maintained by the React team.
+
 * [React Docs Tutorial](https://reactjs.org/tutorial/tutorial.html)
+
+  * [Lifting State Up](https://reactjs.org/docs/lifting-state-up.html#lessons-learned)
 
 * [Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-reactjs)
 
-Finish these 3 small projects for React [here](https://ihatetomatoes.net/r101/)
+* Finish these 3 small projects for React [here](https://ihatetomatoes.net/r101/)
 
-Setting up React is very difficult because Webpack config is rather confusing your best bet to initiliaze projects are our [jam3 generator]() or [create-react-app](https://github.com/facebookincubator/create-react-app/) which is mantained by the React team.
-
-React Router v4 is very simple and their [docs](https://reacttraining.com/react-router/web) are great
+* React Router v4 is very simple and their [docs](https://reacttraining.com/react-router/web) are great
 
 ### Gsap
 
@@ -97,6 +99,8 @@ At Jam3 we heavily use the Gsap animation library good resources to take a look 
 
 * [Gsap Docs](https://greensock.com/docs)
 * [Gsap 101 Course Youtube](https://www.youtube.com/watch?v=_42HpXlGpfk&list=PLkEZWD8wbltlSS_d_7tx_H_FBNVro8918)
+
+---
 
 <h3>Egghead</h3>  
 <img src="./images/egghead.svg" width="6%">

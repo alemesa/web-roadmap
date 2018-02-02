@@ -4,13 +4,11 @@ Ease up the development setup process - this guide is for Mac if you're on Windo
 * [Fonts](#fonts)
 * [iTerm2](#iterm2)
 * [Homebrew](#homebrew)
-* [Bash](#bash)
 * [Git](#git)
 * [VSCode](#vscode)
 * [Node](#node)
 * [Mongo](#mongo)
 * [Others](#others)
-* [Python](#python)
 * [Heroku](#heroku)
 
 ### Start
@@ -86,8 +84,12 @@ echo 'export PATH="/usr/local/bin:$PATH"' >> ~/.bash_profile
 After this you can install applications like this
 
 ```bash
+# single app
 brew install visual-studio-code
+# multiple appls
 brew install firefox sublime-text ...
+# search for apps
+brew search firefox
 ```
 
 ### Git
@@ -103,7 +105,7 @@ git config --global user.email "Email"
 git config --global credential.helper osxkeychain
 ```
 
-Typical .gitconfig will look like this, be free to remove aliases
+Typical .gitconfig will look like this, feel free to remove aliases
 
 ```bash
 [user]
@@ -141,22 +143,22 @@ code \directory\to\open
 
 #### Best Themes
 
-0. [Sublime Material Theme](https://marketplace.visualstudio.com/items?itemName=jprestidge.theme-material-theme#review-details)
-1. [Dracula]()
-1. [Cobalt2]()
+1. [Sublime Material Theme](https://marketplace.visualstudio.com/items?itemName=jprestidge.theme-material-theme#review-details)
+2. [Dracula]()
+3. [Cobalt2]()
 
 #### Best Plugins
 
-0. [Seti Icons]()
-1. [Auto-Open Markdown Preview]()
-1. [Color Highlight]()
-1. [ESLint]()
-1. [Guides]()
-1. [Import Cost]()
-1. [npm Intellisense]()
-1. [Prettier]()
-1. [Sublime Babel]()
-1. [Terminal]()
+1. [Seti Icons]()
+2. [Auto-Open Markdown Preview]()
+3. [Color Highlight]()
+4. [ESLint]()
+5. [Guides]()
+6. [Import Cost]()
+7. [npm Intellisense]()
+8. [Prettier]()
+9. [Sublime Babel]()
+10. [Terminal]()
 
 ### Node
 
